@@ -18,7 +18,3 @@ Mimarlık ofisinin proje ve iletişim sitesi.
 ## Bir iş nasıl ilerler
 
 Sayfayı sade kurarım. Metin ve fotoğraf sizden gelir. Telefonda ve masaüstünde birlikte bakarız, sonra kendi alan adınıza bağlarız.
-
-## İletişim
-
-[beymetdijital@gmail.com](mailto:beymetdijital@gmail.com)
